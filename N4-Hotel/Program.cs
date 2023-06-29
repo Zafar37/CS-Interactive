@@ -6,7 +6,7 @@ var NowHotelRooms = new bool[][]
    
 };
 
-Console.WriteLine("Rooms:")
+Console.WriteLine("Rooms:");
 
 Console.WriteLine($"Xona: {index+1} Bandmi? {NowHotelRooms[0][index++]} ");
 Console.WriteLine($"Xona: {index+1} Bandmi? {NowHotelRooms[0][index++]} ");
