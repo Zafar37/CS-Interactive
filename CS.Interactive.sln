@@ -5,17 +5,17 @@ VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "N1-Data-Types", "N1-Data-Types", "{6A89C79D-B525-453A-BE04-48D4F9F91F4E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N1-Reception", "HomePractice\N1-Reception.csproj", "{D8F3DE51-A5B7-487E-B6D6-03CA3A5A6E23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N1-Reception", "N1-Reception\N1-Reception.csproj", "{D8F3DE51-A5B7-487E-B6D6-03CA3A5A6E23}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeTask", "HomeTask", "{F30D701D-1758-4473-B173-B82EC42E8269}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N2-Correct-Data-Types", "N2-Correct-Data-Types\N2-Correct-Data-Types.csproj", "{0E9AA901-AB59-4317-928C-ABE71E80DABF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N2-Correct-Data-Types", "N2-Correct-Data-Types\N2-Correct-Data-Types.csproj", "{0E9AA901-AB59-4317-928C-ABE71E80DABF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N3-Delivery-Trakcer", "N3-Delivery-Trakcer\N3-Delivery-Trakcer.csproj", "{C39C9B60-0103-43DC-AE83-32DD6A8D8C93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N3-Delivery-Trakcer", "N3-Delivery-Trakcer\N3-Delivery-Trakcer.csproj", "{C39C9B60-0103-43DC-AE83-32DD6A8D8C93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N4-Hotel", "N4-Hotel\N4-Hotel.csproj", "{B4D73FF8-D997-4D51-BFE9-5F464327BBD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N4-Hotel", "N4-Hotel\N4-Hotel.csproj", "{B4D73FF8-D997-4D51-BFE9-5F464327BBD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "#5 N5-Types", "#5 N5-Types\#5 N5-Types.csproj", "{66DA3D13-D5CB-4F46-AF4E-6633C42DEFAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N5-Types", "N5-Types\N5-Types.csproj", "{66DA3D13-D5CB-4F46-AF4E-6633C42DEFAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
